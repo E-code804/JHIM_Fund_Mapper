@@ -1,0 +1,1489 @@
+{
+    "Alternative funds": {
+        "Alternative Asset Allocation Fund Class I": {
+            "fund_values": [
+                "One-stop alternative allocation solution",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Providing instant diversification across alternative asset classes and investment strategies",
+                "Individual strategies managed by a diverse set of specialized institutional asset managers",
+                "Designed to dampen portfolio volatility when combined with traditional stock and bond investments"
+            ]
+        },
+        "Asset-Based Lending Fund Class I": {
+            "fund_values": [
+                "High current income",
+                "All-weather strategy"
+            ],
+            "fund_captions": [
+                "Seek to provide high current income and to a lesser extent capital appreciation",
+                "Alpha generation through sourcing, less efficient markets, limited competition, complexity & illiquidity premiums, and proprietary manager insights",
+                "Private originated asset-based loans, secured by real or financial assets, can serve as a complement to both private credit and traditional fixed income strategies"
+            ]
+        },
+        "Diversified Macro Fund Class I": {
+            "fund_values": [
+                "Long-term capital appreciation",
+                "Core alternative holding"
+            ],
+            "fund_captions": [
+                "Pursuing diversified sources of returns through algorithmic long and short positions in carry, fundamental, trend, and value strategies",
+                "Trading futures and foreign exchange instruments across 55 global markets for stocks, bonds, currencies, and commodities",
+                "Aggregating the output of underlying signals to diversify and optimize exposure across markets, sectors, and trading styles"
+            ]
+        },
+        "Infrastructure Fund Class I": {
+            "fund_values": [
+                "Managing downside risk and a potential inflation hedge",
+                "Total return consisting of capital appreciation and income"
+            ],
+            "fund_captions": [
+                "Aiming to outperform global equities over a complete market cycle with a focus on limiting losses in flat or negative markets",
+                "Targeting companies with long-lived physical assets and revenue streams that may benefit from contractual inflation adjustments",
+                "The companies in the fund's investment universe often pay attractive dividends, which the fund generally distributes quarterly"
+            ]
+        },
+        "Multi Asset Credit Fund Class I": {
+            "fund_values": [
+                "High current income",
+                "Alternative all-weather strategy"
+            ],
+            "fund_captions": [
+                "A long-biased, global multi-asset credit solution that seeks to deliver attractive income-driven, risk-adjusted returns through economic cycles",
+                "Focus on lending to the right businesses and seek to ensure capital is in the right asset class, geography, and sector at the right time",
+                "A bottom-up research process designed to avoid defaults and help mitigate periods of economic and geopolitical uncertainty"
+            ]
+        },
+        "Multi-Asset Absolute Return Fund Class I": {
+            "fund_values": [
+                "Core alternative holding",
+                "Long-term total return"
+            ],
+            "fund_captions": [
+                "Seeks to maximize risk-adjusted absolute return and exploit market cycles and inefficiencies",
+                "Investing across asset classes with a focus on potential return drivers, or risk premia, in equity, debt, derivatives, and other market instruments",
+                "Constructing a balanced risk profile designed for durability under a wide variety of macroeconomic scenarios"
+            ]
+        },
+        "Real Estate Securities Fund Class I": {
+            "fund_values": [
+                "Core alternative holding",
+                "The fund seeks to achieve a combination of long-term capital appreciation and current income"
+            ],
+            "fund_captions": [
+                "Using tenant-driven analysis supported by collaboration with industry experts",
+                "The companies in the fund's investment universe often pay attractive dividends, which the fund generally distributes quarterly",
+                "Aiming to deliver strong absolute returns over a complete market cycle with a focus on limiting losses in down markets"
+            ]
+        },
+        "Seaport Long/Short Fund Class I": {
+            "fund_values": [
+                "Alternative equity holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Employing a long/short strategy that combines the insight and expertise of multiple investment teams in a single portfolio",
+                "Investing in a portfolio of both long and short positions may help limit the fund's reliance on rising market prices to drive returns",
+                "By aiming to limit volatility and downside risk, the fund seeks better long-term risk-adjusted returns than its global equity benchmark index"
+            ]
+        }
+    },
+    "Asset allocation funds": {
+        "Balanced Fund Class I": {
+            "fund_values": [
+                "Core moderate holding",
+                "Current income and long-term growth, consistent with capital preservation"
+            ],
+            "fund_captions": [
+                "Leveraging the entire Manulife Investment Management team to seek promising investment ideas",
+                "Mandated to hold a diverse combination of equities and bonds designed to help reduce the overall volatility of the portfolio",
+                "Single, professionally managed option for investors looking to diversify their portfolio holdings"
+            ]
+        },
+        "Lifestyle Blend Aggressive Portfolio Class A": {
+            "fund_values": [
+                "Long-term growth of capital",
+                "Broadly diversified, risk-targeted portfolio"
+            ],
+            "fund_captions": [
+                "Using John Hancock\u2019s infrastructure to tap a broad array of funds",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "Lifestyle Blend Balanced Portfolio Class A": {
+            "fund_values": [
+                "A balance between a high level of current income and growth of capital",
+                "Broadly diversified, risk-targeted portfolio"
+            ],
+            "fund_captions": [
+                "Using John Hancock\u2019s infrastructure to tap a broad array of funds",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "Lifestyle Blend Conservative Portfolio Class A": {
+            "fund_values": [
+                "A balance between a high level of current income and growth of capital",
+                "Broadly diversified, risk-targeted portfolio"
+            ],
+            "fund_captions": [
+                "Using John Hancock\u2019s infrastructure to tap a broad array of funds",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "Lifestyle Blend Growth Portfolio Class A": {
+            "fund_values": [
+                "Long-term growth of capital",
+                "Broadly diversified, risk-targeted portfolio"
+            ],
+            "fund_captions": [
+                "Using John Hancock\u2019s infrastructure to tap a broad array of funds",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "Lifestyle Blend Moderate Portfolio Class A": {
+            "fund_values": [
+                "A balance between a high level of current income and growth of capital",
+                "Broadly diversified, risk-targeted portfolio"
+            ],
+            "fund_captions": [
+                "Using John Hancock\u2019s infrastructure to tap a broad array of funds",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "Multi-Asset High Income Fund Class I": {
+            "fund_values": [
+                "Multi-asset income-oriented solution",
+                "Current income with consideration for capital appreciation and preservation"
+            ],
+            "fund_captions": [
+                "Designed to deliver consistent, high income by pursuing income opportunities in multiple asset classes, including global fixed income, dividend-paying equities, and options",
+                "Incorporates flexible asset class guidelines across traditional and nontraditional income sources and flexible geographic allocations across developed and emerging markets",
+                "Strategies are managed by a diverse set of asset managers, each with specialized expertise"
+            ]
+        },
+        "Multimanager Lifestyle Aggressive Portfolio Class I": {
+            "fund_values": [
+                "Broadly diversified, risk-targeted portfolio",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Tapping a broad range of industry talent in and outside of John Hancock for each asset class and investment style",
+                "Investing beyond traditional asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Employing a dynamic process that offers the potential to benefit from global investment opportunities as they arise"
+            ]
+        },
+        "Multimanager Lifestyle Balanced Portfolio Class I": {
+            "fund_values": [
+                "Broadly diversified, risk-targeted portfolio",
+                "A balance between a high level of current income and growth of capital"
+            ],
+            "fund_captions": [
+                "Tapping a broad range of industry talent in and outside of John Hancock for each asset class and investment style",
+                "Investing beyond traditional asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Employing a dynamic process that offers the potential to benefit from global investment opportunities as they arise"
+            ]
+        },
+        "Multimanager Lifestyle Conservative Portfolio Class I": {
+            "fund_values": [
+                "Broadly diversified, risk-targeted portfolio",
+                "A balance between a high level of current income and growth of capital"
+            ],
+            "fund_captions": [
+                "Tapping a broad range of industry talent in and outside of John Hancock for each asset class and investment style",
+                "Investing beyond traditional asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Employing a dynamic process that offers the potential to benefit from global investment opportunities as they arise"
+            ]
+        },
+        "Multimanager Lifestyle Growth Portfolio Class I": {
+            "fund_values": [
+                "Broadly diversified, risk-targeted portfolio",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Tapping a broad range of industry talent in and outside of John Hancock for each asset class and investment style",
+                "Investing beyond traditional asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Employing a dynamic process that offers the potential to benefit from global investment opportunities as they arise"
+            ]
+        },
+        "Multimanager Lifestyle Moderate Portfolio Class I": {
+            "fund_values": [
+                "Broadly diversified, risk-targeted portfolio",
+                "A balance between a high level of current income and growth of capital"
+            ],
+            "fund_captions": [
+                "Tapping a broad range of industry talent in and outside of John Hancock for each asset class and investment style",
+                "Investing beyond traditional asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Employing a dynamic process that offers the potential to benefit from global investment opportunities as they arise"
+            ]
+        }
+    },
+    "Enrollment-based 529 portfolio": {
+        "Enrollment Portfolio Class A": {
+            "fund_values": [
+                "One-stop investment for 529 education savings",
+                "Attractive risk-adjusted returns"
+            ],
+            "fund_captions": [
+                "Automatically adjusts to become more conservative over time",
+                "Tapping a broad range of industry talent from a diverse group of investment firms through a unique partnership with T. Rowe Price",
+                "Diversified across securities, investment strategies, asset classes, and managers"
+            ]
+        },
+        "Portfolio 2025-2028 Class A": {
+            "fund_values": [
+                "One-stop investment for 529 education savings",
+                "Attractive risk-adjusted returns"
+            ],
+            "fund_captions": [
+                "Automatically adjusts to become more conservative over time",
+                "Tapping a broad range of industry talent from a diverse group of investment firms through a unique partnership with T. Rowe Price",
+                "Diversified across securities, investment strategies, asset classes, and managers"
+            ]
+        },
+        "Portfolio 2029-2032 Class A": {
+            "fund_values": [
+                "One-stop investment for 529 education savings",
+                "Attractive risk-adjusted returns"
+            ],
+            "fund_captions": [
+                "Automatically adjusts to become more conservative over time",
+                "Tapping a broad range of industry talent from a diverse group of investment firms through a unique partnership with T. Rowe Price",
+                "Diversified across securities, investment strategies, asset classes, and managers"
+            ]
+        },
+        "Portfolio 2033-2036 Class A": {
+            "fund_values": [
+                "One-stop investment for 529 education savings",
+                "Attractive risk-adjusted returns"
+            ],
+            "fund_captions": [
+                "Automatically adjusts to become more conservative over time",
+                "Tapping a broad range of industry talent from a diverse group of investment firms through a unique partnership with T. Rowe Price",
+                "Diversified across securities, investment strategies, asset classes, and managers"
+            ]
+        },
+        "Portfolio 2037-2040 Class A": {
+            "fund_values": [
+                "One-stop investment for 529 education savings",
+                "Attractive risk-adjusted returns"
+            ],
+            "fund_captions": [
+                "Automatically adjusts to become more conservative over time",
+                "Tapping a broad range of industry talent from a diverse group of investment firms through a unique partnership with T. Rowe Price",
+                "Diversified across securities, investment strategies, asset classes, and managers"
+            ]
+        },
+        "Portfolio 2041-2044 Class A": {
+            "fund_values": [
+                "Attractive risk-adjusted returns",
+                "One-stop investment for 529 education savings "
+            ],
+            "fund_captions": [
+                "Automatically adjusts to become more conservative over time",
+                "Tapping a broad range of industry talent from a diverse group of investment firms through a unique partnership with T. Rowe Price",
+                "Diversified across securities, investment strategies, asset classes, and managers"
+            ]
+        }
+    },
+    "Fixed-income funds": {
+        "Bond Fund Class I": {
+            "fund_values": [
+                "Diversifying income holdings",
+                "High current income consistent with a prudent level of risk"
+            ],
+            "fund_captions": [
+                "Pursuing a variety of opportunities offered primarily by U.S. government, agency, and corporate bonds",
+                "Broad diversification, sector allocation, issue selection, and yield curve positioning",
+                "Investing at least 75% of assets in investment-grade bonds"
+            ]
+        },
+        "California Municipal Bond Fund Class I": {
+            "fund_values": [
+                "Tax planning strategies",
+                "High current income, exempt from federal and state taxes"
+            ],
+            "fund_captions": [
+                "Investing in municipal securities that are exempt from federal and California state personal income taxes",
+                "Using fundamental research to target bonds that appear undervalued based on their creditworthiness and structure",
+                "Pursuing tax-free income opportunities and researching municipal credit at John Hancock since 1995"
+            ]
+        },
+        "Corporate Bond ETF": {
+            "fund_values": [
+                "Current income and capital preservation",
+                "High-quality income opportunities"
+            ],
+            "fund_captions": [
+                "Seeks excess return through bottom-up issue selection and yield curve positioning",
+                "Pursuing income opportunities in high-quality, medium maturity securities",
+                "With more than 50 years of combined investment experience between the fund's portfolio managers"
+            ]
+        },
+        "Dynamic Municipal Bond ETF": {
+            "fund_values": [
+                "High level of tax-exempt income",
+                "Tax planning strategies"
+            ],
+            "fund_captions": [
+                "Investing in a nationally diversified portfolio of primarily high-quality municipal securities exempt from federal income taxes",
+                "Using fundamental research to target bonds that appear undervalued based on their creditworthiness and structure",
+                "With 40 years of combined experience in municipal bonds between the fund's portfolio managers"
+            ]
+        },
+        "ESG Core Bond Fund Class I": {
+            "fund_values": [
+                "Opportunistic fixed-income holding",
+                "Current income and capital preservation"
+            ],
+            "fund_captions": [
+                "Investing in a range of fundamentally sound, high-quality securities from issuers with a positive purpose or above-average ESG profile",
+                "Integrating traditional and ESG research to invest in both corporate and municipal debt securities",
+                "From an independently owned company with an ESG focus, specializing in investment-grade fixed income for nearly 25 years"
+            ]
+        },
+        "Emerging Markets Debt Fund Class I": {
+            "fund_values": [
+                "Diversifying income holdings",
+                "Income and capital appreciation"
+            ],
+            "fund_captions": [
+                "Targets government and corporate debt from countries with expanding economies and favorable demographic trends",
+                "The asset class historically posted different return patterns from core U.S. bonds, making it an attractive way to help diversify a portfolio",
+                "With historically low yields across many fixed-income markets, emerging-market debt may offer the potential for higher income"
+            ]
+        },
+        "Floating Rate Income Fund Class I": {
+            "fund_values": [
+                "High current income and reducing interest-rate risk",
+                "A high level of current income"
+            ],
+            "fund_captions": [
+                "Uses rigorous fundamental research to generate income through investments in senior floating-rate bank loans",
+                "Coupon payments on bank loans \"float\" above prevailing rates, so exposure to the asset class can help reduce a portfolio's rate sensitivity",
+                "The asset class's historical return pattern has differed from those of stocks and traditional bonds, a key to creating diversification"
+            ]
+        },
+        "Government Income Fund Class I": {
+            "fund_values": [
+                "High-quality income opportunities",
+                "Current income and capital preservation"
+            ],
+            "fund_captions": [
+                "Balancing income opportunities with interest-rate risk by investing in a range of U.S. Treasury and agency securities",
+                "Seeking to maintain a stable share price, which may make the fund appropriate for conservative investors",
+                "With more than 60 years of combined investment experience between the fund's portfolio managers"
+            ]
+        },
+        "High Yield ETF": {
+            "fund_values": [
+                "Seeks to maximize current income; capital appreciation is a secondary goal",
+                "High current income"
+            ],
+            "fund_captions": [
+                "The fund aims to provide the value of a consistent portfolio construction process to high-yield bonds",
+                "The portfolio construction process seeks to achieve a well-rounded investment approach by integrating strengths of active management with positive attributes of passive portfolios",
+                "Experienced team includes 30+ investment professionals and expertise in managing actively managed fixed-income portfolios"
+            ]
+        },
+        "High Yield Fund Class I": {
+            "fund_values": [
+                "Generating income",
+                "High current income and capital appreciation"
+            ],
+            "fund_captions": [
+                "Has the ability to take concentrated positions in sectors or securities that represent the most attractive opportunities",
+                "Invests in a range of high-yielding securities, including corporate bonds, loans, preferred securities, and equities",
+                "Seeking to identify the most attractive bonds issued by undervalued companies with sustainable business models"
+            ]
+        },
+        "High Yield Municipal Bond Fund Class I": {
+            "fund_values": [
+                "Tax planning strategies",
+                "High current tax-exempt income"
+            ],
+            "fund_captions": [
+                "Investing in a nationally diversified portfolio of high-yield municipal securities exempt from federal income taxes",
+                "Using fundamental research to target bonds that appear undervalued based on their creditworthiness and structure",
+                "Pursuing tax-free income opportunities and researching municipal credit at John Hancock since 1995"
+            ]
+        },
+        "Income Fund Class I": {
+            "fund_values": [
+                "Diversifying income holdings",
+                "A high level of current income"
+            ],
+            "fund_captions": [
+                "Pursuing a variety of investment-grade and higher-yielding fixed-income opportunities globally",
+                "Including government and corporate bonds from both developed and emerging markets",
+                "May be used to hedge risk"
+            ]
+        },
+        "Income Securities Trust Class CE": {
+            "fund_values": [
+                "Diversifying income holdings",
+                "High level of current income consistent with prudent risk"
+            ],
+            "fund_captions": [
+                "Focusing on opportunities in investment-grade corporate and government-backed securities",
+                "Providing exposure to companies from across a variety of sectors and industries",
+                "Employing a value-oriented philosophy that combines top-down and bottom-up analysis to identify opportunities while managing risk"
+            ]
+        },
+        "Investment Grade Bond Fund Class I": {
+            "fund_values": [
+                "High-quality income opportunities",
+                "Current income and capital preservation"
+            ],
+            "fund_captions": [
+                "Investing in corporate bonds from a range of sectors, as well as U.S. government securities",
+                "Pursuing income opportunities in high-quality, medium maturity securities",
+                "With more than 50 years of combined investment experience between the fund's portfolio managers"
+            ]
+        },
+        "Investors Trust Class CE": {
+            "fund_values": [
+                "Diversifying income",
+                "Income and capital appreciation"
+            ],
+            "fund_captions": [
+                "Concentrating primarily on generating income for distribution to shareholders",
+                "Focusing on higher-yielding corporate and government-backed securities",
+                "Flexibility to invest across a full spectrum of bonds in the marketplace and diversify across a number of industries"
+            ]
+        },
+        "Money Market Fund Class A": {
+            "fund_values": [
+                "Short-term conservative allocation",
+                "Liquidity and capital preservation"
+            ],
+            "fund_captions": [
+                "Seeking to maintain a stable $1 share price, which it has maintained since its inception",
+                "Investing in short-term securities in the top two credit quality tiers or their equivalents",
+                "Offering exposure to a range of fixed-income securities from a variety of issuers and industries"
+            ]
+        },
+        "Mortgage-Backed Securities ETF": {
+            "fund_values": [
+                "High-quality income opportunities",
+                "Current income and capital preservation"
+            ],
+            "fund_captions": [
+                "Seeks excess return through bottom-up issue selection and sector positioning",
+                "Potential diversification for longer-duration bonds and corporate credit ",
+                "With more than 50 years of combined investment experience between the fund's portfolio managers"
+            ]
+        },
+        "Municipal Opportunities Fund Class I": {
+            "fund_values": [
+                "Tax planning strategies",
+                "High current tax-exempt income"
+            ],
+            "fund_captions": [
+                "Investing in a nationally diversified portfolio of high-quality municipal securities exempt from federal income taxes",
+                "Using fundamental research to target bonds that appear undervalued based on their creditworthiness and structure",
+                "Pursuing tax-free income opportunities and researching municipal credit at John Hancock since 1995"
+            ]
+        },
+        "Opportunistic Fixed Income Fund Class I": {
+            "fund_values": [
+                "Total return and capital preservation",
+                "Diversifying income holdings"
+            ],
+            "fund_captions": [
+                "Casts a wide net, focusing on non-core sectors characterized by wide valuation swings and unrecognized structural changes\n",
+                "Fosters an information advantage by using less-traditional data sources and a broad network of internal experts\n",
+                "Seeks to retain a risk profile consistent with core fixed income through prudent portfolio construction\n"
+            ]
+        },
+        "Preferred Income ETF": {
+            "fund_values": [
+                "To seek a high level of current income, consistent with preservation of capital",
+                "Diversifying sources of income"
+            ],
+            "fund_captions": [
+                "Seeks a portfolio of preferred securities that can generate high income and preservation of capital",
+                "Focusing on preferred securities that include, but are not limited to, convertible preferred securities, corporate hybrid securities, trust preferred securities, cumulative and noncumulative preferred stock, and depositary of preferred stock",
+                "Offering exposure to income-producing securities from a variety of sectors"
+            ]
+        },
+        "Preferred Income Fund Class CE": {
+            "fund_values": [
+                "Diversifying sources of income",
+                "High current income and capital preservation"
+            ],
+            "fund_captions": [
+                "Focusing on preferred stocks and preferred convertible securities, which share characteristics of both equities and bonds",
+                "Investing at least 50% of the portfolio in investment-grade securities",
+                "Offering exposure to income-producing securities from a variety of sectors"
+            ]
+        },
+        "Preferred Income Fund II Class CE": {
+            "fund_values": [
+                "Diversifying sources of income",
+                "High current income and capital preservation"
+            ],
+            "fund_captions": [
+                "Focusing on preferred stocks and preferred convertible securities, which share characteristics of both equities and bonds",
+                "Investing at least 50% of the portfolio in investment-grade securities",
+                "Offering exposure to income-producing securities from a variety of sectors"
+            ]
+        },
+        "Preferred Income Fund III Class CE": {
+            "fund_values": [
+                "Diversifying sources of income",
+                "High current income and capital preservation"
+            ],
+            "fund_captions": [
+                "Focusing on preferred stocks and preferred convertible securities, which share characteristics of both equities and bonds",
+                "Investing at least 50% of the portfolio in investment-grade securities",
+                "Offering exposure to income-producing securities from a variety of sectors"
+            ]
+        },
+        "Short Duration Bond Fund Class I": {
+            "fund_values": [
+                "High current income consistent with a prudent level of risk",
+                "High-quality income opportunities and reducing interest-rate risk"
+            ],
+            "fund_captions": [
+                "Seeks to maintain an average duration of less than three years, which offers a buffer against rising interest rates",
+                "Pursues a variety of opportunities offered primarily by U.S. government, agency, and corporate bonds",
+                "Invests at least 65% of assets in investment-grade bonds and other high-quality assets"
+            ]
+        },
+        "Short Duration Municipal Opportunities Fund Class I": {
+            "fund_values": [
+                "Tax-exempt income",
+                "Tax planning strategies"
+            ],
+            "fund_captions": [
+                "Investing in a nationally diversified portfolio of high-quality municipal securities exempt from federal income taxes",
+                "Using fundamental research to target bonds that appear undervalued based on their creditworthiness and structure",
+                "Pursuing tax-free income opportunities and researching municipal credit at John Hancock since 1995"
+            ]
+        },
+        "Strategic Income Opportunities Fund Class I": {
+            "fund_values": [
+                "Diversifying income holdings",
+                "Income and capital appreciation"
+            ],
+            "fund_captions": [
+                "Seeks to outperform over different market environments by participating in up markets and protecting in down markets",
+                "Pursuing a variety of investment-grade and higher-yielding fixed-income opportunities globally",
+                "Tactically allocates across sectors, credit qualities, and currencies while actively managing duration exposure"
+            ]
+        }
+    },
+    "Individual 529 portfolios": {
+        "American Mutual Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "Current income, growth, and conservation of principal"
+            ],
+            "fund_captions": [
+                "Targeting attractively valued industry leaders, that pay steady dividends",
+                "Seeking current income, capital growth, and conservation of principal",
+                "Leveraging the research expertise and the collective insight of a broad team of equity analysts"
+            ]
+        },
+        "Blue Chip Growth Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "Long-term capital growth"
+            ],
+            "fund_captions": [
+                "Seeking to invest in large U.S. companies with strong market franchises in industries that are strategically poised for long-term growth",
+                "Targeting companies with sustainable earnings growth and strong free cash flow whose stocks are trading at attractive valuations",
+                "Leveraging the research expertise and the collective insight of a broad team of equity analysts"
+            ]
+        },
+        "Capital Appreciation Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Targeting high-quality, U.S. companies with strong business fundamentals and balance sheets",
+                "Seeking companies with sustainable earnings growth and strong free cash flow",
+                "Employing fundamentally driven research to identify companies that represent mispriced opportunities"
+            ]
+        },
+        "Equity Income Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "High level of dividend income and long-term capital growth"
+            ],
+            "fund_captions": [
+                "Targeting primarily large-cap companies with a strong track record of paying dividends and/or are believed to be undervalued",
+                "Focusing primarily on companies with an above-average dividend yield",
+                "Employing fundamentally driven research to identify companies that represent mispriced opportunities"
+            ]
+        },
+        "International Value Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "Long-term capital growth"
+            ],
+            "fund_captions": [
+                "Seeking to invest in a wide range of large international companies across a variety of sectors and industries",
+                "Targeting non-U.S. companies with attractive relative valuations, strong fundamentals, and positive business momentum",
+                "Employing fundamentally driven research to identify companies that represent mispriced opportunities"
+            ]
+        },
+        "Mid-Cap Value Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Seeking to invest in well-established, financially stable mid-cap companies whose shares have lagged but that may have a catalyst for positive change",
+                "Targeting opportunities that the managers believe offer attractive long-term return potential",
+                "Leveraging the research expertise and the collective insight of a broad team of equity analysts"
+            ]
+        },
+        "New Horizons Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Investing in small-cap companies, which typically offer greater return potential than larger, established businesses",
+                "Investing primarily in a diversified group of small, emerging growth companies, preferably early in their corporate lifecycle",
+                "Employing fundamentally driven research to identify companies that represent mispriced opportunities"
+            ]
+        },
+        "Small-Cap Stock Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "Long-term capital growth"
+            ],
+            "fund_captions": [
+                "Investing in small-cap companies, which typically offer greater return potential than larger, established businesses",
+                "Combining growth- and value-focused investment strategies, the fund aims for less volatility than a growth-only approach",
+                "Leveraging the research expertise and the collective insight of a broad team of equity analysts"
+            ]
+        }
+    },
+    "International equity funds": {
+        "Disciplined Value Emerging Markets Equity Fund Class I": {
+            "fund_values": [
+                "International diversification",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Seeks to outperform emerging-market equities over time by limiting downside risk in falling markets while keeping pace in rising markets",
+                "Targets emerging-market companies with attractive relative valuations, strong fundamentals, and positive business momentum",
+                "More than 30 years of experience employing a time-tested investment process developed in the 1980s"
+            ]
+        },
+        "Disciplined Value International Fund Class I": {
+            "fund_values": [
+                "Core international holding",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Seeks to outperform non-U.S. equity markets over time by limiting downside risk in falling markets while keeping pace in rising markets",
+                "Targets non-U.S. companies with attractive relative valuations, strong fundamentals, and positive business momentum",
+                "More than 30 years of experience employing a time-tested investment process developed in the 1980s"
+            ]
+        },
+        "Disciplined Value International Select ETF": {
+            "fund_values": [
+                "Long-term growth of capital",
+                "Core international holding"
+            ],
+            "fund_captions": [
+                "Seeks to outperform non-U.S. equity markets over time by limiting downside risk in falling markets while keeping pace in rising markets",
+                "Targets non-U.S. companies with attractive relative valuations, strong fundamentals, and positive business momentum",
+                "More than 30 years of experience employing a time-tested investment process developed in the 1980s"
+            ]
+        },
+        "ESG International Equity Fund Class I": {
+            "fund_values": [
+                "Opportunistic international holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Investing across non-U.S. developed and emerging markets by integrating comprehensive ESG criteria and traditional security selection",
+                "Investing in companies that have sustainable business models as well as strong ESG practices",
+                "From a majority employee-owned firm dedicated exclusively to ESG investing since its founding in 2003"
+            ]
+        },
+        "Emerging Markets Equity Fund Class I": {
+            "fund_values": [
+                "International diversification",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Employing fundamentally driven research to identify best-in-class emerging-market growth companies with strong business fundamentals",
+                "Targeting countries that are benefiting from structural reforms and that possess rising spending power",
+                "With direct experience in emerging markets dating to the 1980s and support from a team of veteran analysts and traders"
+            ]
+        },
+        "Fundamental Global Franchise Fund Class I": {
+            "fund_values": [
+                "Concentrated global holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Characterized by market leadership within an industry and strong returns on invested capital",
+                "Investing in competitively advantaged companies that generate sustainable long-term cash flows and earnings growth",
+                "Designed to give more weight to the management team's highest-conviction investment ideas"
+            ]
+        },
+        "Global Environmental Opportunities Fund Class I": {
+            "fund_values": [
+                "Long-term capital appreciation",
+                "Unconstrained global holding"
+            ],
+            "fund_captions": [
+                "Seeks to invest in companies providing solutions or technologies designed to address pressing environmental challenges",
+                "The single-theme approach is supported by a team of analysts as well as input from academics and industry experts",
+                "Benchmark-agnostic investment approach focused on highest-conviction global equities"
+            ]
+        },
+        "Global Equity Fund Class I": {
+            "fund_values": [
+                "Concentrated global holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Diversified portfolio of quality global stocks that demonstrate compelling value and generate substantial cash flows",
+                "Seeks companies with attractive valuations, solid business franchises, and compelling management and cash flow characteristics",
+                "Designed to give more weight to the portfolio team's best ideas"
+            ]
+        },
+        "Global Shareholder Yield Fund Class I": {
+            "fund_values": [
+                "Global dividend income",
+                "A high level of income and some capital appreciation"
+            ],
+            "fund_captions": [
+                "Investing in equities worldwide to generate income across all market environments",
+                "Focused on companies that generate high levels of free cash flow and use them to enhance shareholder value",
+                "Designed to limit the size of individual holdings, diversify sources of income, and lower volatility"
+            ]
+        },
+        "Global Thematic Opportunities Fund Class I": {
+            "fund_values": [
+                "Unconstrained global holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Benchmark-agnostic investment approach focused on highest-conviction global equities",
+                "Seeks to invest in themes supported by megatrends\u2014large social, economic, political, environmental, and technological changes",
+                "Each investment theme supported by a team of analysts as well as input from leading academics and industry experts"
+            ]
+        },
+        "Hedged Equity & Income Fund Class CE": {
+            "fund_values": [
+                "Diversifying sources of income",
+                "Capital appreciation and current income"
+            ],
+            "fund_captions": [
+                "Seeks total return consisting of both income and capital gains",
+                "Investing at least 80% of the portfolio in a diverse selection of equities across market capitalizations",
+                "Employing options strategies to mitigate capital losses in periods when equity markets decline"
+            ]
+        },
+        "International Dynamic Growth Fund Class I": {
+            "fund_values": [
+                "International growth opportunities",
+                "High total return"
+            ],
+            "fund_captions": [
+                "Identifying dynamic companies whose key business drivers are both improving and exceeding market expectations",
+                "Employing a data-intensive, fundamental process that creates a risk-controlled, dynamic portfolio",
+                "Applying a single investment philosophy and process across the firm for more than 20 years"
+            ]
+        },
+        "International Growth Fund Class I": {
+            "fund_values": [
+                "Core international holding",
+                "High total return"
+            ],
+            "fund_captions": [
+                "Targeting high-quality, growing companies to potentially limit participation in falling markets while keeping pace in rising markets",
+                "Focusing on time-tested measures of free cash flow, organic growth, valuation, capital returns, and earnings expectations",
+                "With two decades of disciplined stock-picking experience, employing a rigorous process through every market environment"
+            ]
+        },
+        "International High Dividend ETF": {
+            "fund_values": [
+                "Equity income generation with the potential for long-term capital appreciation",
+                "Diversifying sources of income"
+            ],
+            "fund_captions": [
+                "Seeks a portfolio of consistent and sustainable high dividend paying large-cap and mid-cap equities from companies that are domiciled outside of the United States",
+                "Seeks to generate additional yield not directly linked to the prevailing level of interest rates to counteract low yields in fixed income",
+                "May help to protect the purchasing power of investors' capital over time through high dividends and the potential for capital appreciation"
+            ]
+        },
+        "International Small Company Fund Class I": {
+            "fund_values": [
+                "Growth opportunities and portfolio diversification",
+                "Long-term capital appreciation through international small-cap exposure"
+            ],
+            "fund_captions": [
+                "Targets small-cap companies in foreign developed markets that can help diversify a traditional international portfolio",
+                "Emphasizing factors (smaller cap, lower relative price, and higher profitability) that academic research has linked to higher expected returns",
+                "Seeks to minimize turnover, trading costs, cash drag, and company-specific risks"
+            ]
+        },
+        "Multifactor Developed International ETF": {
+            "fund_values": [
+                "Core international holding",
+                "To pursue results that closely correspond, before fees and expenses, to the performance of the John Hancock Dimensional Developed International Index"
+            ],
+            "fund_captions": [
+                "Targeting a wide range of developed-market stocks outside of North America to access the breadth of the market's opportunities",
+                "Emphasizing factors (smaller cap, lower relative price, and higher profitability) that academic research has linked to higher expected returns",
+                "Seeking to minimize turnover, trading costs, tax liabilities, and cash drag"
+            ]
+        },
+        "Multifactor Emerging Markets ETF": {
+            "fund_values": [
+                "Core international holding",
+                "To pursue results that closely correspond, before fees and expenses, to the performance of the John Hancock Dimensional Emerging Markets Index"
+            ],
+            "fund_captions": [
+                "Targeting a wide range of emerging-market stocks to access the breadth of the opportunity",
+                "Emphasizing factors (smaller cap, lower relative price, and higher profitability) that academic research has linked to higher expected returns",
+                "Seeking to minimize turnover, trading costs, tax liabilities, and cash drag"
+            ]
+        }
+    },
+    "Lifetime Blend": {
+        "2010 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return until its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2015 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return until its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2020 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return until its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2025 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return until its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2030 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return until its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2035 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return until its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2040 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return until its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2045 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return until its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2050 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return until its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2055 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return until its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2060 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        },
+        "2065 Lifetime Blend Portfolio Class R6": {
+            "fund_values": [
+                "High total return through its target retirement date",
+                "One-stop retirement investment"
+            ],
+            "fund_captions": [
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Using ETFs and active asset allocation strategies to help minimize the impact of expenses on portfolio returns"
+            ]
+        }
+    },
+    "Multimanager Lifestyle 529 portfolio": {
+        "Multimanager Lifestyle Balanced 529 Portfolio Class A": {
+            "fund_values": [
+                "Broadly diversified, risk-targeted portfolio for 529 education savings",
+                "A balance between a high level of current income and growth of capital"
+            ],
+            "fund_captions": [
+                "Tapping a broad range of industry talent in and outside of John Hancock for each asset class and investment style",
+                "Investing beyond traditional asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Employing a dynamic process that offers the potential to benefit from global investment opportunities as they arise"
+            ]
+        },
+        "Multimanager Lifestyle Growth 529 Portfolio Class A": {
+            "fund_values": [
+                "Broadly diversified, risk-targeted portfolio for 529 education savings",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Tapping a broad range of industry talent in and outside of John Hancock for each asset class and investment style",
+                "Investing beyond traditional asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Employing a dynamic process that offers the potential to benefit from global investment opportunities as they arise"
+            ]
+        },
+        "Multimanager Lifestyle Moderate 529 Portfolio Class A": {
+            "fund_values": [
+                "Broadly diversified, risk-targeted portfolio for 529 education savings",
+                "A balance between a high level of current income and growth of capital"
+            ],
+            "fund_captions": [
+                "Tapping a broad range of industry talent in and outside of John Hancock for each asset class and investment style",
+                "Investing beyond traditional asset classes and investment styles, including exposure to nontraditional and alternative strategies",
+                "Employing a dynamic process that offers the potential to benefit from global investment opportunities as they arise"
+            ]
+        }
+    },
+    "Multimanager Lifetime": {
+        "Multimanager 2010 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2015 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2020 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2025 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2030 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2035 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2040 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2045 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2050 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2055 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2060 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "One-stop retirement investment",
+                "High total return through its target retirement date"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock ",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        },
+        "Multimanager 2065 Lifetime Portfolio Class R6": {
+            "fund_values": [
+                "High total return through its target retirement date",
+                "One-stop retirement investment"
+            ],
+            "fund_captions": [
+                "Using a multimanager approach to tap a broad range of industry talent in and outside of John Hancock",
+                "Implementing a lifelong glide path strategy that seeks to maximize wealth and help make it last throughout retirement",
+                "Investing beyond core asset classes and investment styles, including exposure to nontraditional and alternative strategies"
+            ]
+        }
+    },
+    "Sector funds": {
+        "Financial Opportunities Fund Class CE": {
+            "fund_values": [
+                "Financials sector exposure",
+                "Capital appreciation and current income"
+            ],
+            "fund_captions": [
+                "Investing at least 80% of assets in equity securities of U.S. and foreign financial services companies",
+                "Combining broad issuer diversification with a strict sell discipline and credit quality monitoring",
+                "With more than 20 years of experience researching and managing portfolios of financial stocks"
+            ]
+        }
+    },
+    "Static 529 portfolio": {
+        "Equity Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "100% allocation to equity mutual funds that remains constant for the entire term of the investment",
+                "Targeting a broad range of mutual funds across domestic and international equity markets",
+                "Allocation changes within set ranges for equity categories to enhance performance and respond to market conditions"
+            ]
+        },
+        "Fixed Income Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "Minimizing principal fluctuation with a reasonable level of return"
+            ],
+            "fund_captions": [
+                "100% allocation to fixed income securities that remains constant for the entire term of the investment",
+                "Targeting a diversified mix of fixed income funds for broad exposure to fixed income markets",
+                "Lowering levels of risk by minimizing exposure to equity markets while generating a reasonable level of return"
+            ]
+        },
+        "Future Trends Portfolio Class A": {
+            "fund_values": [
+                "Adding a targeted option to a 529 education savings portfolio",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Allocation to targeted equity sector mutual funds remains constant for the entire term of the investment",
+                "Investing in select funds within technology, health sciences and financial sectors",
+                "Allocation changes within set ranges for sector funds to enhance performance and respond to market conditions"
+            ]
+        },
+        "Stable Value Portfolio Class A": {
+            "fund_values": [
+                "Seeks to maintain stability of principal and maximize current income",
+                "Adding a targeted option to a 529 education savings portfolio"
+            ],
+            "fund_captions": [
+                "Invests in broadly diversified fixed-income securities and may invest up to 5%\u00a0in equity securities",
+                "Includes a guaranteed minimum credit rating that is backed by the claims-paying ability of the contract issuer",
+                "Flexible contract terms and investment guidelines"
+            ]
+        }
+    },
+    "U.S. equity funds": {
+        "Blue Chip Growth Fund Class A": {
+            "fund_values": [
+                "Core large-cap growth holding",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Seeking large U.S. companies with strong market franchises in industries that are strategically poised for long-term growth",
+                "Targeting companies with sustainable earnings growth and strong free cash flow whose stocks are trading at attractive valuations",
+                "Leveraging the fundamental analysis of over 130 equity analysts and industry specialists to identify opportunities and mitigate risk"
+            ]
+        },
+        "Classic Value Fund Class I": {
+            "fund_values": [
+                "Deep value strategy",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Seeks to invest in good businesses that are trading at temporarily depressed prices",
+                "A strict buy-and-sell process helps the fund avoid overpaying for investment opportunities",
+                "Designed to give more weight to the management team's highest-conviction investment ideas"
+            ]
+        },
+        "Disciplined Value Fund Class I": {
+            "fund_values": [
+                "Core large-cap holding",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Seeks to outperform over time by limiting downside risk in falling markets while keeping pace in rising markets",
+                "Targets large-cap companies with attractive relative valuations, strong fundamentals, and positive business momentum",
+                "More than 30 years of experience employing a time-tested investment process developed in the 1980s"
+            ]
+        },
+        "Disciplined Value Mid Cap Fund Class I": {
+            "fund_values": [
+                "Core mid-cap holding",
+                "Capital appreciation"
+            ],
+            "fund_captions": [
+                "Seeks to outperform over time by limiting downside risk in falling markets while keeping pace in rising markets",
+                "Targets mid-cap companies with attractive relative valuations, strong fundamentals, and positive business momentum",
+                "More than 30 years of experience employing a time-tested investment process developed in the 1980s"
+            ]
+        },
+        "ESG Large Cap Core Fund Class I": {
+            "fund_values": [
+                "Opportunistic equity holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Investing in well-managed companies with positive ESG practices as well as attractive business fundamentals",
+                "Integrating traditional fundamental and ESG research to invest in large-capitalization companies across industry sectors",
+                "From a leader in ESG investing with a record of success spanning more than 30 years"
+            ]
+        },
+        "Equity Income Fund Class A": {
+            "fund_values": [
+                "Core large-cap value holding",
+                "Long-term capital growth, along with dividend income"
+            ],
+            "fund_captions": [
+                "Seeking mispriced opportunities in which large U.S. companies are temporarily trading below their long-term intrinsic values",
+                "Targeting companies with strong fundamentals and sustainable dividends to enhance return potential while reducing volatility",
+                "Leveraging the fundamental analysis of over 130 equity analysts and industry specialists to identify opportunities and mitigate risk"
+            ]
+        },
+        "Financial Industries Fund Class I": {
+            "fund_values": [
+                "Financials sector exposure",
+                "Capital appreciation"
+            ],
+            "fund_captions": [
+                "Investing in stocks of U.S. and foreign financial service companies of any size",
+                "Focusing on stock selection to identify securities that appear comparatively undervalued",
+                "Evaluating potential investments based on capital ratios, asset quality, management, earnings, liquidity, and sensitivity to interest rates"
+            ]
+        },
+        "Fundamental All Cap Core ETF1": {
+            "fund_values": [
+                "Long-term capital appreciation",
+                "Core equity holding"
+            ],
+            "fund_captions": [
+                "Focusing on companies with sustainable competitive advantages and strong cash flow generation",
+                "Targeting companies whose stocks the team believes are selling at a substantial discount to their long-term potential",
+                "Designed to be opportunistic in its positioning within growth and value stocks across the market capitalization spectrum"
+            ]
+        },
+        "Fundamental All Cap Core Fund Class I": {
+            "fund_values": [
+                "Core equity holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Focusing on companies with sustainable competitive advantages and strong cash flow generation",
+                "Targeting companies whose stocks the team believes are selling at a substantial discount to their long-term potential",
+                "Designed to be opportunistic in its positioning within growth and value stocks across the market capitalization spectrum"
+            ]
+        },
+        "Fundamental Large Cap Core Fund Class I": {
+            "fund_values": [
+                "Core large-cap holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Potential to outperform when the market rewards fundamental measures of business quality and value",
+                "Designed to be opportunistic in targeting undervalued companies across both value and growth stocks",
+                "Focused on companies with sustainable competitive advantages and strong cash flow generation"
+            ]
+        },
+        "Mid Cap Growth Fund Class I": {
+            "fund_values": [
+                "Long-term capital appreciation",
+                "Mid-cap growth holding"
+            ],
+            "fund_captions": [
+                "Targeting mid-cap companies with significant long-term growth potential",
+                "Employing bottom-up research to identify companies with sustainable revenue growth, expanding operating margins, and strong balance sheets",
+                "Adhering to a strict valuation discipline to seek an attractive ratio of upside potential versus downside risk"
+            ]
+        },
+        "Multifactor Large Cap ETF": {
+            "fund_values": [
+                "Core equity holding",
+                "To pursue results that closely correspond, before fees and expenses, to the performance of the John Hancock Dimensional Large Cap Index"
+            ],
+            "fund_captions": [
+                "Targeting a wide range of large-cap U.S. stocks to access the breadth of the market's opportunities",
+                "Emphasizing factors (smaller cap, lower relative price, and higher profitability) that academic research has linked to higher expected returns",
+                "Seeking to minimize turnover, trading costs, tax liabilities, and cash drag"
+            ]
+        },
+        "Multifactor Mid Cap ETF": {
+            "fund_values": [
+                "Core equity holding",
+                "To pursue results that closely correspond, before fees and expenses, to the performance of the John Hancock Dimensional Mid Cap Index"
+            ],
+            "fund_captions": [
+                "Targeting a wide range of mid-cap U.S. stocks to access the breadth of the market's opportunities",
+                "Emphasizing factors (smaller cap, lower relative price, and higher profitability) that academic research has linked to higher expected returns",
+                "Seeking to minimize turnover, trading costs, tax liabilities, and cash drag"
+            ]
+        },
+        "Multifactor Small Cap ETF": {
+            "fund_values": [
+                "Core equity holding",
+                "To pursue results that closely correspond, before fees and expenses, to the performance of the John Hancock Dimensional Small Cap Index"
+            ],
+            "fund_captions": [
+                "Targeting a wide range of small-cap U.S. stocks to access the breadth of the market's opportunities",
+                "Emphasizing factors (smaller cap, lower relative price, and higher profitability) that academic research has linked to higher expected returns",
+                "Seeking to minimize turnover, trading costs, tax liabilities, and cash drag"
+            ]
+        },
+        "New Opportunities Fund Class I": {
+            "fund_values": [
+                "Small-cap core holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Seeks to deliver diversified small-cap growth exposure",
+                "Targeting companies with consistent, sustainable earnings growth",
+                "The managers focus on companies that can deliver long-term earnings growth, and they let a long-term, research-based perspective drive the investment process"
+            ]
+        },
+        "Premium Dividend Fund Class CE": {
+            "fund_values": [
+                "Diversifying sources of equity income",
+                "High current income, consistent with modest growth of capital"
+            ],
+            "fund_captions": [
+                "Typically investing at least 80% of net assets in dividend-paying securities",
+                "Seeking income from both dividend-paying preferred stocks and common equity securities",
+                "Emphasizing securities in the high-dividend-paying utilities sector"
+            ]
+        },
+        "Regional Bank Fund Class I": {
+            "fund_values": [
+                "Regional bank sector exposure",
+                "Long-term capital appreciation and current income"
+            ],
+            "fund_captions": [
+                "Investing at least 80% in equity securities of U.S.-based banking companies ",
+                "Focusing research on finding securities of companies that are comparatively undervalued, as well as potential merger candidates",
+                "Evaluating potential investments based on capital ratios, asset quality, management, earnings, liquidity, and sensitivity to interest rates"
+            ]
+        },
+        "Small Cap Core Fund Class I": {
+            "fund_values": [
+                "Core small-cap holding",
+                "Superior long-term risk-adjusted returns"
+            ],
+            "fund_captions": [
+                "A blend of growth and value stocks that may be at the inflection points for sales, earnings, and cash flow",
+                "Targeting profitable, high-quality small companies that the managers believe will generate long-term growth of capital",
+                "Pursuing superior risk-adjusted returns by investing in a portfolio of 60 to 80 stocks at attractive valuations"
+            ]
+        },
+        "Small Cap Dynamic Growth Fund Class I": {
+            "fund_values": [
+                "Small-cap growth holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Identifying dynamic, small U.S. companies whose key business drivers are both improving and exceeding market expectations",
+                "Employing a data-intensive, fundamental process that creates a risk-controlled, dynamic portfolio",
+                "Applying a single investment philosophy and process across the firm for more than 20 years"
+            ]
+        },
+        "Small Cap Value Fund Class I": {
+            "fund_values": [
+                "Small-cap value holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Focusing on conservatively valued securities of small-cap companies with proven records of above-average profitability",
+                "Seeking to identify companies with sustainable competitive advantages, strong industry positions, and quality management teams",
+                "Employing a low-turnover investment approach, allowing adequate time for portfolio companies to generate value"
+            ]
+        },
+        "Tax-Advantaged Dividend Income Fund Class CE": {
+            "fund_values": [
+                "Tax-sensitive equity income",
+                "A high level of after-tax total return from dividend income and capital appreciation"
+            ],
+            "fund_captions": [
+                "Typically investing at least 80% of assets in dividend-paying securities",
+                "Targeting securities paying dividends that typically qualify for a more favorable long-term capital gains tax rate",
+                "Typically emphasizes preferred and common securities in the high-dividend-paying utilities sector"
+            ]
+        },
+        "U.S. Global Leaders Growth Fund Class I": {
+            "fund_values": [
+                "Conservative large-cap growth",
+                "Long-term growth of capital"
+            ],
+            "fund_captions": [
+                "Characterized by pricing power, recurring revenues, and global reach",
+                "Targeting companies that have delivered strong, positive earnings growth in a variety of economic environments",
+                "Designed to give more weight to the management team's highest-conviction investment ideas"
+            ]
+        },
+        "U.S. Growth Fund Class I": {
+            "fund_values": [
+                "Core large-cap growth holding",
+                "Long-term capital appreciation"
+            ],
+            "fund_captions": [
+                "Targeting high-quality, growing companies to potentially limit participation in falling markets while keeping pace in rising markets",
+                "Focusing on time-tested measures of free cash flow, organic growth, valuation, capital returns, and earnings expectations",
+                "With two decades of disciplined stock-picking experience, employing a rigorous process through every market environment"
+            ]
+        },
+        "U.S. High Dividend ETF": {
+            "fund_values": [
+                "Equity income generation with the potential for long-term capital appreciation",
+                "Diversifying sources of income"
+            ],
+            "fund_captions": [
+                "Seeks to create a portfolio of consistent and sustainable high dividend paying large-cap and mid-cap equities",
+                "Seeks to generate additional yield not directly linked to the prevailing level of interest rates, to counteract low yields in fixed income",
+                "May help to protect the purchasing power of investors' capital over time through high dividends and capital appreciation potential"
+            ]
+        }
+    }
+}
