@@ -4,16 +4,34 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import json
 
-# e85ad8822059b4fae3a57f2f095f42cbaebfdaab
 
 
+"""
+Return a dictionary object containing information about a fund type and the different individual funds
+in that type.
+
+:return: data -> dictionary of fund information.
+:rtype: dict
+"""
 def get_funds_data():
     with open('funds_data.json', 'r') as funds_data:
         data = json.load(funds_data)
-    
+
     return data
 
 
+"""
+Create and return a data frame that combines a fund's values and captions for
+future TFIDF vectorization.
+
+:param funds_data: Dictionary of all fund data.
+:type: dict
+:param asset: Specified fund asset class.
+:type: string
+
+:return: Dataframe whose columns are 'fund_name', 'combined_values', and 'combined_captions'.
+:rtype: pd.DataFrame
+"""
 def asset_dataframe(funds_data, asset):
     data = funds_data[asset]
     rows = []
@@ -28,13 +46,41 @@ def asset_dataframe(funds_data, asset):
     return pd.DataFrame(rows)
 
 
+"""
+Compute the cosine similarity between the inputted string and current TFIDF matrix
+and return the top "n" highest scoring fund's indices.
+
+:param vectorizer: TfidfVectorizer to score the tfidf matrix against the user's input.
+:type: sklearn.feature_extraction.text.TfidfVectorizer
+:param tfidf_matrix: Fitted and transform TFIDF matrix of a fund's name, values, or captions.
+:type: scipy.sparse._csr.csr_matrix
+:param user_input: User's string to compare against.
+:type: string
+
+:return: The indices and scores of the top "n" funds.
+:rtype: numpy.ndarray, numpy.ndarray
+"""
 def find_closest_funds(vectorizer, tfidf_matrix, user_input):
+    n = 3
     user_input_tfidf = vectorizer.transform([user_input])
     similarity_scores = cosine_similarity(user_input_tfidf, tfidf_matrix)
-    top_match_indices = similarity_scores.argsort()[0][-3:][::-1]
+    top_match_indices = similarity_scores.argsort()[0][-n:][::-1]
 
     return top_match_indices, similarity_scores[0]
 
+
+"""
+Return the DataFrame that contains the funds whose name, values, and captions match closest with
+the user inputted string.
+
+:param funds_data: Dictionary of all fund data.
+:type: dict
+:param user_input: User's string to compare against.
+:type: string
+
+:return: DataFrame of the top funds.
+:rtype: pd.DataFrame
+"""
 def get_top_funds(funds_data, user_input):
     top_funds = pd.DataFrame()
     vectorizer = TfidfVectorizer()
@@ -61,10 +107,10 @@ def get_top_funds(funds_data, user_input):
         fund_df['Captions Similarity Scores'] = sim_scores_captions
         top_funds_indices = np.concatenate((top_name_indices, top_captions_indices, top_values_indices), axis=None)
         top_funds_indices = np.unique(top_funds_indices)
-        print(fund_type)
-        print(top_name_indices)
-        print(top_values_indices)
-        print(top_captions_indices)
+        # print(fund_type)
+        # print(top_name_indices)
+        # print(top_values_indices)
+        # print(top_captions_indices)
 
         # tfidf_matrix = vectorizer.fit_transform(fund_df['combined_text'])
         # top_funds_indices, sim_scores = find_closest_funds(vectorizer, tfidf_matrix, user_input)
