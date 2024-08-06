@@ -83,7 +83,6 @@ the user inputted string.
 """
 def get_top_funds(funds_data, user_input):
     top_funds = pd.DataFrame()
-    vectorizer = TfidfVectorizer()
     name_vectorizer =  TfidfVectorizer()
     values_vectorizer =  TfidfVectorizer()
     captions_vectorizer =  TfidfVectorizer()
@@ -105,16 +104,10 @@ def get_top_funds(funds_data, user_input):
         fund_df['Name Similarity Scores'] = sim_scores_name
         fund_df['Values Similarity Scores'] = sim_scores_values
         fund_df['Captions Similarity Scores'] = sim_scores_captions
+
+        # Get the top funds based on the acquired indices
         top_funds_indices = np.concatenate((top_name_indices, top_captions_indices, top_values_indices), axis=None)
         top_funds_indices = np.unique(top_funds_indices)
-        # print(fund_type)
-        # print(top_name_indices)
-        # print(top_values_indices)
-        # print(top_captions_indices)
-
-        # tfidf_matrix = vectorizer.fit_transform(fund_df['combined_text'])
-        # top_funds_indices, sim_scores = find_closest_funds(vectorizer, tfidf_matrix, user_input)
-        # fund_df['Similarity Scores'] = sim_scores
         top_funds_df = fund_df.iloc[top_funds_indices]
 
         top_funds = pd.concat([top_funds, top_funds_df])
@@ -127,7 +120,9 @@ def main():
     user_input = "One-stop alternative allocation solution"
     top_funds = get_top_funds(funds_data, user_input)
 
-    print(top_funds.nlargest(5, 'Name Similarity Scores'))
+    print("Top funds by name:\n", top_funds.nlargest(5, 'Name Similarity Scores'))
+    print("Top funds by values:\n", top_funds.nlargest(5, 'Values Similarity Scores'))
+    print("Top funds by captions:\n", top_funds.nlargest(5, 'Captions Similarity Scores'))
 
 
 if __name__ == '__main__':
